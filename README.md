@@ -1,4 +1,4 @@
-## Olá, me chamo Dakauann Cavalcante, estudante da área de TI.
+## Olá, me chamo Dakauann Cavalcante, sou estudante da área de TI.
 
 <p align="center" ><img alt="Dakauann Cavalcante" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
@@ -32,7 +32,6 @@
   ##
  
 <div> 
-  <a href="https://wa.me/558183064666" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-R17535?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/558183064666" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="mailto:viniciusgdr@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5584994409624" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-R17535?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="mailto:dakauannc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-GMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
