@@ -1,25 +1,13 @@
 ## Olá, me chamo Dakauann Cavalcante, sou estudante da área de TI.
 
-<p align="center" ><img alt="Dakauann Cavalcante" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
+<p align="center" ><img alt="Dakauann Cavalcante" src="https://github.com/Dakauann/dakauann/blob/965df7ee1288bb30150177a293c985bc8d3bbd43/purple-laptop.png?raw=true"></p>
 
-### Minhas Skills:
-  - 🎓  98% de fluência em JavaScript
-  - 📚  Nível intermediário-avançado em NodeJS
-  - 🖥  Facilidade na criação e uso de máquinas virtuais (ubuntu/windows server)
-  - 🤖  Automação de conversas em diversas plataformas, como WhatsApp, Discord e Telegram, juntamente a implementação de interfaces web para a interação com estas criações
-  - 🧢 Experiente com as tecnologias Front-End: NextJs, React, Vue, VanillaJs
-  
-### Atualmente estou estudando:
-  - 📂  Clean Architecture
-  - 📚  Princípios do SOLID
-  - 🧢  TDD
-  - 💻  Typescript com Design Patterns
+## Meus conhecimentos:
+- 🌓 2 anos e meio de experieência com typescript + NodeJs (Intermediário / Avançado)
+- ⌚ experiência com tecnologias frontend/backend como: NextJs, VueJs, React, Express
+- 🎉 Facilidade na criação e uso de máquinas virtuais (ubuntu/windows server)
+- ⛵ Facilidade no aprendizado e implementação de novos ou já existentes sistemas
 
-<div align="center">
-  <a href="https://github.com/dakauann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dakauann&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakauann&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dakauann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dakauann-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
