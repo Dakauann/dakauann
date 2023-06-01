@@ -1,4 +1,4 @@
-## Olá, me chamo Dakauann Cavalcante, sou um estudante da área de TI (self taught). Adoro tecnologia e soluções referentes à automação de tarefas, Atualmente estou cursando Ciência e Tecnologia na UFRN (Universidade Federal do Rio Grande do Norte).
+## Olá, me chamo Dakauann Cavalcante, sou um estudante da área de TI (self taught). Adoro tecnologias e soluções referentes à automação de tarefas, Atualmente estou cursando Ciência e Tecnologia na UFRN (Universidade Federal do Rio Grande do Norte).
 
 <p align="center" ><img alt="Dakauann Cavalcante" src="https://github.com/Dakauann/dakauann/blob/965df7ee1288bb30150177a293c985bc8d3bbd43/purple-laptop.png?raw=true"></p>
 
